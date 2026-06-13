@@ -44,5 +44,5 @@ The objective of this project was to investigate how offensive production varies
 
 ## Files
 
-* mlb_sql_analysis.ipynb
+* 'mlb_sql_analysis.ipynb'
 * Batting.csv
