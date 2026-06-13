@@ -2,6 +2,13 @@
 
 This project explores offensive performance trends across Major League Baseball teams and players using SQL queries applied to 2023 batting statistics.
 
+## Tools Used
+
+- SQL (SQLite)
+- Python
+- Pandas
+- Jupyter Notebook
+
 ## Project Goals
 
 The objective of this project was to investigate how offensive production varies across MLB teams and players and to identify factors associated with strong offensive performance beyond home run production alone.
@@ -24,15 +31,17 @@ The objective of this project was to investigate how offensive production varies
 
 ## Skills Demonstrated
 
-* SQL
-* GROUP BY
-* Aggregate Functions (AVG, SUM)
-* Filtering and Sorting
-* Data Analysis
+- SQL
+- Data Cleaning and Filtering
+- Aggregate Functions (AVG, SUM)
+- Exploratory Data Analysis (EDA)
+- Sports Analytics
 
 ## Dataset
 
-2023 MLB Batting Statistics Dataset
+* 2023 MLB Batting Statistics Dataset
+
+* Source: Baseball Reference batting statistics dataset
 
 ## Files
 
