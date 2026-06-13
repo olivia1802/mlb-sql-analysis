@@ -40,8 +40,7 @@ The objective of this project was to investigate how offensive production varies
 ## Dataset
 
 * 2023 MLB Batting Statistics Dataset
-
-* Source: Baseball Reference batting statistics dataset
+* Source: Kaggle (Baseball Batting Statistics Dataset)
 
 ## Files
 
